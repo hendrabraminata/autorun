@@ -1,0 +1,1 @@
+Simple Android Application to automatically run another application after reboot.
